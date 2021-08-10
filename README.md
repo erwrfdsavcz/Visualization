@@ -1,4 +1,4 @@
 # Visualization
 Visualization of learnt attentions of some example actions using our TCP on Kinetics-400 (K-400).
 
-![fig](Vis-fig.png)
+![fig](Vis_fig.png)
